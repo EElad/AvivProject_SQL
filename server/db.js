@@ -12,13 +12,6 @@ async function endPool() {
     pool.end();
  }
  
- async function getAllNotes() {
-    const sqlQuery = 'SELECT * FROM customers';
-    const [allCustomers] = await pool.query(sqlQuery);
-    return allCustomers;
- }
- 
-
 /* -------------------------------------------- */
 async function getAllCustomers(){
     const sqlQuery = 'SELECT * FROM customers';
