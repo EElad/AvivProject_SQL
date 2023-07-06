@@ -1,0 +1,22 @@
+{
+  "AllFlats": [
+    {
+      "street name": "Hertzel",
+      "city": "tel aviv",
+      "street number": 10,
+      "id": "a83b0c24-fd09-45c5-8d45-ef66ee9400f2"
+    },
+    {
+      "street name": "Eilat",
+      "city": "holon",
+      "street number": 35,
+      "id": "197e6d57-c295-445e-8502-42ffafd8889c"
+    },
+    {
+      "street name": "Ben Gurion",
+      "city": "bat yam",
+      "street number": 120,
+      "id": "06e58ac4-bc16-4cb1-9093-535b85250e53"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+    "Flats": [
+        {
+            "street name": "Hertzel",
+            "city": "tel aviv",
+            "street number": 10
+        },
+        {
+            "street name": "Eilat",
+            "city": "holon",
+            "street number": 35
+        },
+        {
+            "street name": "Ben Gurion",
+            "city": "bat yam",
+            "street number": 120
+        }
+    ]
+}
